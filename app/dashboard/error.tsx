@@ -1,8 +1,7 @@
 // app/dashboard/error.tsx
 'use client' // Error components must be Client Components
 
-import { useEffect } from 'react'
-
+import { useEffect ,use} from 'react'
 export default function Error({
                                   error,
                                   reset,
